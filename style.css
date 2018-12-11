@@ -1,0 +1,63 @@
+/* Colors and Fonts */
+
+body{
+
+  background: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color:  blue;
+  font-size: 15px;
+  line-height: 2em;
+}
+
+h1, h2, h3
+{
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  color: black;
+  font-size: 22px;
+}
+
+h2{
+  color: red;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.6em;
+  font-family: 'times', sans-serif;
+}
+
+p{
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.6em;
+  font-family: 'times', sans-serif;
+}
+
+h3
+{
+   color: orange;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+
+
+a{
+  color: black;
+  font-size: 15px;
+  line-height: 1.6em;
+
+
+}
+
+.card-white{
+
+	background-color: white;
+	box-shadow: 8px 10px 30px rgba (0,0,0,1);
+	margin : 40px 40px;
+}
+
